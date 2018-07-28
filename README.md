@@ -48,9 +48,8 @@ SHA256:	c7aa4c8d8f77b898a8e23bd7ca0b52c8d1a353a69b94f4872e39697c9ee2b0df
 File name:	netsecnow_crypt.py
 Detection ratio:	0 / 32
 
-
-
- 
+###### Donate! 
+Bitcoin: 1A3a1p22EHXWq7muYZc9rGTmRGaithMnjR
  
 
 
