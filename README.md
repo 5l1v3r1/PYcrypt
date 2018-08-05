@@ -1,6 +1,6 @@
 # PYcrypt
 
-- PYcrypt is a polymorphic 'python backdoors' crypter written in python by NetSecNow .
+- PYcrypt is a polymorphic 'python backdoors' crypter written in python by Hak9 .
 The output  is fully undetectable .
 
 - PYcrypt can inject malicious python file into  a normal file with multi-threading system .

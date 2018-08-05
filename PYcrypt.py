@@ -319,7 +319,7 @@ name = """
 |      - backdooring python file  with         |
 |        a malicious python file               |
 |                                              |
-| -Author: NetSecNow                           |
+| -Author: Hak9                           |
 ------------------------------------------------
 	   """
 
